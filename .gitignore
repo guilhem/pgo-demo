@@ -16,3 +16,5 @@ test.md
 .terraform.lock.hcl.backup
 
 rendered/
+
+.envrc
